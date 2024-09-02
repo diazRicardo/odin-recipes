@@ -1,6 +1,5 @@
 .red_pozole {
     color: rgb(189, 39, 127);
-    background-color: white
 }
 
 #main-header {
@@ -10,8 +9,9 @@
     border-radius: 1%;
 }
 
-.fonts {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+.front-page-style {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #EAE4DD
 }
 
 .main-body {
