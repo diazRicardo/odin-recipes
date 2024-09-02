@@ -2,3 +2,19 @@
     color: rgb(189, 39, 127);
     background-color: white
 }
+
+#main-header {
+    text-align: center;
+    background-color: #7C93C3;
+    color: white;
+    border-radius: 1%;
+}
+
+.fonts {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.main-body {
+    font-size: 24px;
+    font: black
+}
