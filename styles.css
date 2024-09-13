@@ -1,3 +1,13 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin:6px;
+}
+
 .red_pozole {
     color: rgb(189, 39, 127);
 }
@@ -7,14 +17,18 @@
     background-color: #7C93C3;
     color: white;
     border-radius: 1%;
+    padding: 24px;
+    font-size: 22px;
 }
 
 .front-page-style {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #EAE4DD
+    background-color: #EAE4DD;
+    margin: 0;
 }
 
 .main-body {
     font-size: 24px;
-    font: black
+    font: black;
+    margin: 20px
 }
