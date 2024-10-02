@@ -32,3 +32,39 @@ p {
     font: black;
     margin: 40px
 }
+
+/* old code for container
+.phrase-block {
+    width: 100%;
+    padding: 8px;
+    background-color: bisque;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 28px;
+
+}
+
+.phrase {
+    margin: 8px 100px;
+}
+new code using flex: */
+
+.phrase-block {
+    width: 100%;
+    background-color: bisque;
+    padding: 0px;
+    margin: 0px;
+    font-size: 28px;
+    gap: 1rem;
+    display: flex;
+    text-align: center;
+
+
+    border-radius: 10px;
+    border-color: red firebrick;
+
+}
+
+.phrase {
+    flex-basis: 100%;
+}
