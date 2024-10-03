@@ -17,7 +17,7 @@ ul {
 }
 
 ul li {
-    font-size: 26px;
+    font-size: 24px;
 }
 
 ul a {
@@ -33,12 +33,13 @@ ul a {
 li.logo { 
     margin-right: auto;
     font-size: 28px;
+    flex-basis:400px;
 }
 
 .logo a {
     font-size: 2.125rem;
     font-weight: 500;
-  }
+}
 
 .front-page-style {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
